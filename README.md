@@ -16,19 +16,18 @@ Build a chat server that includes the following points:
     
   * Clone the repository
   * Move to the folder in command line and open at least 3 terminals to check exactly how this chat server works:
-    ```
+    
   First terminal:
+  ```
     go build . 
     ./chatbot
-   
-    ```
+   ``` 
    Second and Third terminal (Here you can actually chat between two people in a group):
-    ```
-    telnet localhost 8000
-    ```
+  
+```    telnet localhost 8000
+```
 
-    ```
-    
+     
    #### Help Commands
 
   1: /username <username> : Enter Name , otherwise you will stay "Annonymas"
