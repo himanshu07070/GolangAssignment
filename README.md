@@ -32,9 +32,9 @@ Build a chat server that includes the following points:
      
    #### Help Commands
 
-  1: /username <username> : Enter Name , otherwise you will stay "Annonymas"
-  2: /join <groupname> : Join a room, if room doesn't exist , the new room will be created . User can be only in one room at same time.
-  3: /listrooms : Show list of available rooms to join
-  4: /msg <message> : broadcast message to everyone in a room
-  5: /quit : disconnects from chat server
+  * /username <username> : Enter Name , otherwise you will stay "Annonymas"
+  * /join <groupname> : Join a room, if room doesn't exist , the new room will be created . User can be only in one room at same time.
+  * /listrooms : Show list of available rooms to join
+  * /msg <message> : broadcast message to everyone in a room
+  * /quit : disconnects from chat server
  
