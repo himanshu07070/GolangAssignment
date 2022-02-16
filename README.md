@@ -24,8 +24,10 @@ Build a chat server that includes the following points:
    ``` 
    Second and Third terminal (Here you can actually chat between two people in a group):
   
-```    telnet localhost 8000
-```
+  ```   
+  telnet localhost 8000
+
+  ```
 
      
    #### Help Commands
